@@ -1,7 +1,7 @@
 # Library-Manager
 
 
-### This project was created by Visual Studio IDE using C++
+### This project was created by CLion IDE using C++
 
 ### After running the .exe you'll be asked to enter a few passwords.
 
@@ -14,7 +14,7 @@
 #### The program does not need any special requirements, and runs as a normal windows application.
 
 
-     Author: Duncan Jomo
+     Author: Monei Bakang Mothuti
          
          
-##### Botho Assignment on c++ BY Duncan Jomo
+##### Botho Assignment on c++ BY Monei Bakang Mothuti
